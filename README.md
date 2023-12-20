@@ -1,2 +1,2 @@
-# LLM_MULTIPLE_CHOICE_FINETUNING
-Using LLM to answer Multiple Choice Questions
+# ALL THE NLP PROJECTS AND TECHNIQUES I HAVE WORKED WITH
+Using nlp to solve projects
