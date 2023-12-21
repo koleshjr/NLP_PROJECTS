@@ -39,6 +39,12 @@ Welcome to my NLP Portfolio, where I showcase a range of projects in Natural Lan
    - **Aim:** Enhancing accuracy and efficiency in identifying COVID-19-related content on Twitter.
    - **Technologies:** Python, Transformers, scikit-learn.
 
+**7. To Vaccinate or Not to Vaccinate: It's not a Question**
+
+    Overview: Analyzing social media sentiment towards vaccines, particularly focusing on COVID-19 vaccines.
+    Aim: Developing a machine learning model to categorize Twitter posts related to vaccinations as positive, neutral, or negative.
+    Technologies: Python, NLTK, scikit-learn, PyTorch, Transformers.
+
 
 
 ## NLP Templates
