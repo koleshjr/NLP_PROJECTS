@@ -33,6 +33,14 @@ Welcome to my NLP Portfolio, where I showcase a range of projects in Natural Lan
     Aim: Developing models to discern the veracity of climate change-related claims.
     Technologies: Python, Transformers.
 
+**6. COVID-19 Tweets Identification**
+
+   - **Overview:** Identifying tweets related to coronavirus without relying on traditional keyword-based approaches.
+   - **Aim:** Enhancing accuracy and efficiency in identifying COVID-19-related content on Twitter.
+   - **Technologies:** Python, Transformers, scikit-learn.
+
+
+
 ## NLP Templates
 **1. GPT Finetuning Template**
 
